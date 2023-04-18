@@ -1,0 +1,14 @@
+
+
+img {
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+  }
+
+#petCounter {
+  color: blue;
+  font-size: 38px;
+  font-weight: bold;
+  font-style: italic;
+}
